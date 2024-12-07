@@ -34,12 +34,12 @@ ACCELERATE_LOG_LEVEL=info accelerate launch --config_file accelerate_configs/dee
 
 If you find our repo to be useful, please cite our paper:
 ```bibtex
-@inproceedings{Cal-DPO2024,
-  title={Cal-DPO: Calibrated Direct Preference Optimization for Language Model Alignment },
-  author={Xiao, Teng and Yuan, Yige and Zhu, Huaisheng and Li, Mingxiao and Honavar, Vasant G},
-  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)},
+@inproceedings{xiao2024leverage,
+  title={How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective},
+  author={Xiao, Teng and Li, Mingxiao and Yuan, Yige and Zhu, Huaisheng and Cui, Chao and Honavar, Vasant},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={13413--13426},
   year={2024}
 }
-
 
 
