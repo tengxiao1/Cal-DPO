@@ -30,5 +30,16 @@ ACCELERATE_LOG_LEVEL=info accelerate launch --config_file accelerate_configs/dee
 * [New Open LLM Leadboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) 
 
 
+##  Reference 
+
+If you find our repo to be useful, please cite our paper:
+```bibtex
+@inproceedings{Cal-DPO2024,
+  title={Cal-DPO: Calibrated Direct Preference Optimization for Language Model Alignment },
+  author={Xiao, Teng and Yuan, Yige and Zhu, Huaisheng and Li, Mingxiao and Honavar, Vasant G},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
+
 
 
